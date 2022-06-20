@@ -1,0 +1,14 @@
+/* 
+  Myticket.strings
+  fanatick
+
+  Created by Yashesh on 11/07/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"mytickets" = "My Tickets";
+"open_negotiations" = "Open negotiations";
+"transactions" = "Transactions";
+"view_tickets" = "View Tickets";
+"completed" = "Completed";
+"pending_pickup" = "Pending pickup";

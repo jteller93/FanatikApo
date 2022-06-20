@@ -1,0 +1,17 @@
+git "git@github.com:swensonhe/wires-iOS.git" "master"
+git "git@github.com:swensonhe/nutsandbolts-iOS.git" "development"
+github "kishikawakatsumi/KeychainAccess" "v3.1.2"
+github "robb/Cartography" "master"
+github "Alamofire/AlamofireImage" ~> 3.5
+github "hackiftekhar/IQKeyboardManager" "v6.2.0"
+github "aws-amplify/aws-sdk-ios"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAuthBinary.json"
+github "jonkykong/SideMenu" ~> 5.0.3
+github "optonaut/ActiveLabel.swift"
+github "ReactiveX/RxSwift" ~> 4.4.2
+github "Yalantis/Segmentio" ~> 3.3
+github "algolia/algoliasearch-client-swift" ~> 6.0.0
+github "stripe/stripe-ios" ~>  15.0.1
+github "Pushwoosh/pushwoosh-ios-sdk"
+github "evgenyneu/Cosmos" ~> 20.0

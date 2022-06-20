@@ -1,0 +1,21 @@
+/* 
+  Home.strings
+  fanatick
+
+  Created by Vincent Ngo on 5/3/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"home_title" = "There is Electricity in the air\ncan you feel it?";
+
+
+"qr_code_scanner" = "QR Code scanner";
+"listed" = "Listed";
+"active" = "Active";
+"sold" = "Sold";
+"transaction_completed" = "Transaction completed";
+"unsold" = "Unsold";
+"add_new_listing" = "Add New Listing";
+
+"delete_Listing" = "Delete listing?";
+"this_cannot_be_undone_and_any_offres_will_be_automatically_declined" = "This can not be undone and any offers will be automatically declined.";

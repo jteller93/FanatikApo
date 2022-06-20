@@ -1,0 +1,65 @@
+/* 
+  Listingdetail.strings
+  fanatick
+
+  Created by Yashesh on 10/06/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+
+"view_offer" = "View Offer";
+"view_purchase" = "View Purchase";
+"listing_details" = "Listing details";
+"change_price" = "Change Price";
+"mark_as_sold" = "Mark as Sold";
+"scan_qr_code" = "Scan QR Code";
+"accept" = "Accept";
+"counter" = "Counter";
+"decline" = "Decline";
+"asking_price" = "Asking Price";
+"per_ticket" = "per ticket";
+"original_price" = "Original Price";
+"selling_price" = "Selling Price";
+"got_it" = "Got it!";
+"update_price_any_offers_above_new_asking_price_will_be_automatically_declined" = "Update price? Any offers above new asking price will be automatically declined.";
+"mark_as_sold_any_offer_will_be_automatically_declined" = "Mark as sold? Any offers will be automatically declined.";
+"proceed" = "Proceed";
+"mark_as_avaliable" = "Mark as Avaliable";
+"mark_as" = "Marked as";
+"sold" = "Sold";
+"transaction_completed" = "Transaction completed";
+"you_asked_for" = "You asked for";
+"offered" = "offered";
+"your_asking_price" = "Your Asking Price";
+"current_offer" = "Current Offer";
+"submit" = "Submit";
+"you_declined" = "This offer has been declined";
+"accepted_offer" = "Accepted offer";
+"Scan_your_buyers_qr_Code_upon_pick_up_to_complete_the_transaction" = "Scan your buyer’s QR Code upon pick up to complete the transaction.";
+"you_have_accepted" = "You have accepted";
+"offer_Once_payment_is_complete_your_buyer_will_be_shown_a_map_of_your_current_location" = "offer! Once payment is complete your buyer will be shown a map of your current location.";
+"offer_once_payment_is_complete_your_buyer_will_receive_a_digital_copy_of_the_tickets" = "offer! Once payment is complete your buyer will receive a digital copy of the tickets.";
+"go_to_payment" = "Go to Payment";
+"once_payment_is_complete_your_buyer_will_receive_a_digital_copy_of_the_tickets" = "Once payment is complete your buyer will receive a digital copy of the tickets.";
+"transaction_complete" = "Transaction complete.";
+"transaction_failed" = "Transaction failed.";
+"transaction_cancel" = "Transaction cancel.";
+"transaction_expired" = "This purchase was not picked up in time and has expired.";
+"once_payment_is_complete_you_will_receive_a_digital_copy_of_the_tickets" = "Once payment is complete you will receive a digital copy of the tickets.";
+"once_payment_is_complete_you_will_be_shown_a_map_of_the_sellers_location" = "Once payment is complete you will be shown a map of the seller’s location";
+"you_offered" = "You Offered";
+"asked_for" = "asked for";
+"current_asking_price_per_ticket" = "Current Asking Price Per Ticket:";
+"you_offered" = "You Offered";
+"buy_now" = "Buy Now";
+"cancel_offer" = "Cancel Offer";
+"change_offer" = "Change Offer";
+"make_an_offer" = "Make an Offer";
+"you_have_15_minutes_to_complete_payment_for_your_tickets" = "You have 15 minutes to complete payment for your tickets.";
+"payment_has_been_processed_scan_your_buyers_qr_code_upon_pick_up_to_complete_the_transaction" = "Payment has been processed! Scan your buyer’s QR Code upon pick up to complete the transaction.";
+"i_have_provided" = "I have provided";
+"with_the_tickets" = "with the tickets!";
+"confirm" = "Confirm";
+"scan_successful" = "Scan Successful!";
+"transaction_recap" = "Transaction recap:";
+"pickup_map" = "Pick Up Map";

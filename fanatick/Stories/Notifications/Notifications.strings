@@ -1,0 +1,10 @@
+/* 
+  Notifications.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/30/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"notifications" = "Notifications";
+"tip_text" = "When does it NOT make sense to scan and transfer funds through Fanatick? NEVER! In the unlikely event something goes wrong while making a hardcopy exchange, all funds must be transferred through the app for our customer service to assist.\n\nThe best time and place to meet someone for a ticket exchange is either at the event or during the day in a place with good foot traffic.\n\nFanatick is more than a ticketing app, it is a community of event goers so make sure you review your buyers and sellers. By doing so, you strengthen the Fanatick community and allow for safer transactions for all.\n\nIf there is an event you would like to see on Fanatick, email us the name of the event, time and place, and we will add it to the upcoming events.nResources are readily available to help guide you with any ticketing sale or purchase on our blog. Please visit https://www.fanatickapp.com/blog/ for any other questions or concerns.";

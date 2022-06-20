@@ -1,0 +1,79 @@
+/* 
+  General.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/12/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"buttonTitle_ok" = "OK";
+"sign_in" = "Sign in";
+"create_new_account" = "Create New Account";
+"enter_your_number" = "Enter your mobile #";
+
+"continue" = "Continue";
+"finish" = "Finish";
+"cancel" = "Cancel";
+"search" = "Search";
+"update" = "Update";
+"search_place_holder" = "Event, artist, team, or venue";
+
+"today" = "Today";
+"yesterday" = "Yesterday";
+"fanatick" = "Fanatick";
+
+"sec" = "Sec";
+"row" = "Row";
+"seat" = "Seat";
+"qty" = "Qty";
+"usd" = "USD";
+"current" = "Current";
+"price_template" = "$%0.2f";
+
+"cancel" = "Cancel";
+"done" = "Done";
+"delete" = "Delete";
+
+"turn_on_location_service_to_allow_fanatick_to_determine_your_location" = "Turn On Location Service in Settings to Allow \"Fanatick\" to Determine Your Location";
+"your_purchase_is_complete_go_to_my_tickets_to_view_your_tickets_or_download_them_to_your_device_below" = "Your purchase is complete! Go to “My Tickets” to view your tickets, or download them to your device below.";
+"download_tickets" = "Download Tickets";
+"not_now" = "Not Now";
+"download_completed" = "Download\ncomplete!";
+"allow" = "Allow";
+"dont_allow" = "Don't Allow";
+"display_my_qr_code" = "Display my QR Code";
+"call" = "Call";
+"text" = "Text";
+"time_left" = "time left";
+"view_seller_location" = "View Seller Location";
+"pickup_location_placeholder" = "Enter Pickup Location";
+"mi_from_you" =  "mi from you";
+"you_have_1_hour_to_pick_up_your_tickets" = "You have 1 hour to pick up your tickets!";
+"Tap_the_button_below_to_view_your_seller’s_location_Dont_forget_to_show_your_QR_code_to_the_seller_to_confirm_pickup" = "Tap the button below to view your seller’s location. Don’t forget to show your QR code to the seller to confirm pickup.";
+
+"scanning_not_supported" = "Scanning not supported";
+"your_device_does_not_support_scanning_a_code_from_an_item_please_use_a_device_with_a_camera" = "Your device does not support scanning a code from an item. Please use a device with a camera.";
+
+// Rating
+"rating_seller_title" = "How was your experience with %@?";
+"rating_seller_submit" = "Submit";
+"fair_price" = "Fair Price";
+"friendly_seller" = "Friendly Seller";
+"quick_response" = "Quick Response";
+"easy_to_locate" = "Easy to Locate";
+"rating_1" = "Poor";
+"rating_2" = "Fair";
+"rating_3" = "Good";
+"rating_4" = "Very Good";
+"rating_5" = "Excellent";
+
+// Saving
+"saving_title" = "FAN-A-TICK SAVED YOU";
+"saving_amount" = "$%.02f";
+"saving_per_ticket" = "PER TICKET IN FEES";
+"saving_industry_standard" = "(27% industry standard)";
+"got_it" = "Got it!";
+
+"payment_not_setup" = "You have not configured a payment account. Please press OK to be directed to our Stripe partner portal where you can accept payments.";
+
+"not_subscribed" = "You are not a Pro Member. Please press OK to be directed to settings screen where you can subscribe.";

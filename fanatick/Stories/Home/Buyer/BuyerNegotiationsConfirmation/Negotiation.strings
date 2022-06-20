@@ -1,0 +1,12 @@
+/* 
+  Negotiation.strings
+  fanatick
+
+  Created by Yashesh on 23/06/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+
+"accept_your_offer_of" = "accepted your offer of ";
+"total" = "Total";
+"offer_expired" = "Your offer expired!!!";

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>212072520602-gjvtugmo4qm1si6kl13lu43ce3qaflvg.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.212072520602-gjvtugmo4qm1si6kl13lu43ce3qaflvg</string>
+    <key>API_KEY</key>
+    <string>AIzaSyDMMEOytP0CrMfF9nSvK1Uxw4DQ18oIq-4</string>
+    <key>GCM_SENDER_ID</key>
+    <string>212072520602</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.fanatick.ios</string>
+    <key>PROJECT_ID</key>
+    <string>fanatick-stage</string>
+    <key>STORAGE_BUCKET</key>
+    <string>fanatick-stage.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:212072520602:ios:966f26d06d45b8286ef823</string>
+    <key>DATABASE_URL</key>
+    <string>https://fanatick-stage.firebaseio.com</string>
+</dict>
+</plist>

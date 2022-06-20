@@ -1,0 +1,24 @@
+/* 
+  Ticketinfo.strings
+  fanatick
+
+  Created by Yashesh on 03/06/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"Seats must be in the same row and next to each other." = "Seats must be in the same row and next to each other.";
+"section" = "Section";
+"row" = "Row";
+"seat_info" = "Seat Info";
+"list_tickets" = "List Tickets";
+"seat_ticket" = "Seat - Ticket";
+"upload_digital_tickets" = "Upload Digital Tickets";
+"finish" = "Finish";
+"photo_and_video_library" = "Photo & Video Library";
+"document" = "Document";
+"upload" = "Upload";
+"change" = "Change";
+"seat" = "Seat";
+"digital" = "Digital";
+"Hardcopy_pick_up_before_the_event" = "Hardcopy - pick up before the event";
+"You_have_selected_a_digital_delivery_method_Please_upload_your_tickets_now" = "You have selected a digital\ndelivery method. Please\nupload your tickets now.";

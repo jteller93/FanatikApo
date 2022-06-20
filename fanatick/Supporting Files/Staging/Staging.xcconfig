@@ -1,0 +1,13 @@
+//
+//  Staging.xcconfig
+//  fanatick
+//
+//  Created by Vincent Ngo on 4/10/19.
+//  Copyright © 2019 Fanatick. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_BUNDLE_IDENTIFIER = com.fanatick.ios
+PRODUCT_NAME = Fanatick Staging
+PUSHWOOSH_ID = C1F56-CE55A

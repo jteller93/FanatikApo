@@ -1,0 +1,17 @@
+/* 
+  Menu.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/19/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"home" = "Home";
+"my_tickets" = "My Tickets";
+"notifications" = "Notifications";
+"settings" = "Settings";
+"about" = "About";
+"wallet" = "Wallet";
+"payment" = "Payment";
+"logout" = "Logout";
+"tips" = "Tips";

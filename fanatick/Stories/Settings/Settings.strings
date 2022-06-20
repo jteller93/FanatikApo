@@ -1,0 +1,34 @@
+/* 
+  Settings.strings
+  fanatick
+
+  Created by Vincent Ngo on 5/1/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"name:" = "Name:";
+"mobile_number:" = "Mobile Number:";
+"take_photo" = "Take Photo";
+"choose_from_library" = "Choose From Library";
+
+"enter_your_first_name:" = "Enter your first name:";
+"enter_your_last_name:" = "Enter your last name:";
+"save_changes" = "Save Changes";
+
+"seller_location_title" = "Seller Location";
+"seller_location_description" = "This allows you to share your location at your discretion with the fanaticks in the process of buying hardcopy tickets from you";
+
+"membership:" = "Membership:";
+"pro_member"  = "Pro Member";
+"renews"      = "renews";
+
+"tired_of_buying" = "Tired of buying and selling fees?";
+"upgrade_to_pro!" = "Upgrade to Pro!";
+"upgrade_to_pro" = "Upgrade to Pro $6.99/Month";
+
+"pro_features" = "Subscribe and become a part of the ticketing app that is changing it all! If you are tired of sales fees, non-negotiable prices, and sketchy ticket transactions, then you have come to right place.\n\nJoin now and we will grandfather in this early adopter subscription amount for any changes to future monthly dues.";
+
+"pro_terms" = "Payment will be charged to your Apple ID Account at confirmation of purchase.\n\nSubscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n\nAccount will be charged for renewal within 24-hours prior to the end of the current period at $6.99/month.\n\nNo cancellation of the current subscription is allowed during active subscription period.";
+
+"pro_cancel" = "Cancel my membership";
+"operation_cancelled" = "Operation Cancelled";

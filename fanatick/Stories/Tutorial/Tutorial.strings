@@ -1,0 +1,27 @@
+/* 
+  Tutorial.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/11/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"terms" = "By creating an account, you agree to our\nTerms of Service and Privacy Policy";
+"terms_of_service_regex" = "Terms of Service";
+
+"privacy_policy_regex" = "Privacy Policy";
+
+"title_1" = "NEGOTIATION\nNATION!";
+"description_1" = "WE’VE CREATED A FRIENDLY ENVIRONMENT\nTO NEGOTIATE A DEAL IN REAL TIME!";
+
+"title_2" = "CUT THE FEES!\nCUT THE BS!";
+"description_2" = "As a subscriber SKIP THE ADDITIONAL\nFEES AND ENJOY THE SHOW!";
+
+"title_3" = "NO MORE\nSKETCHY\nTRANSACTIONS!";
+"description_3" = "KNOW WHO YOUR BUYING\nFROM AND SELLING TO, LEAVE\nTHE CASH IN THE BANK.\nWE GOT YOUR BACK!";
+
+"title_4" = "WHEEL & DEAL\nIN NO TIME AT ALL";
+"description_4" = "BUY AND SELL YOUR TICKETS\nWITH EASE IN NO TIME!";
+
+
+"get_started" = "Get Started";

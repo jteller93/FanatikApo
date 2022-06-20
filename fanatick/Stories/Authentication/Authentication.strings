@@ -1,0 +1,21 @@
+/* 
+  Authentication.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/12/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+
+
+"verification_code_title" = "We sent a 6-digit verification code to \n%@.";
+"enter_verification_code" = "Enter verification code:";
+"resend_code" = "Resend code";
+"verify" = "Verify";
+"verification_code_resend" = "We've resent a 6-digit verification code to \n%@.";
+"enter_your_first_name" = "Enter your first name:";
+"enter_your_last_name" = "Enter your last name:";
+"start_as_title" = "Would you like to start as:";
+"buyer" = "Buyer";
+"seller" = "Seller";
+"start_as_description" = "You can switch between buyer and seller\n mode at any time in the menu";

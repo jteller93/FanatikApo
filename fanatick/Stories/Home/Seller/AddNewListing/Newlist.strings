@@ -1,0 +1,16 @@
+/* 
+  NewList.strings
+  fanatick
+
+  Created by Yashesh on 31/05/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"city" = "City";
+"date_and_time" = "Date and Time";
+"qty" = "Qty";
+"price_per_ticket" = "Price per ticket";
+"delivery_method" = "Delivery Method";
+"pick_up_location" = "Pick up location";
+"quicksell" = "Quicksell";
+"don't_leave_me_with_a_single_ticket" = "Don't leave me with a single ticket";

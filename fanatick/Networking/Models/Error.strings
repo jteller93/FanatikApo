@@ -1,0 +1,16 @@
+/* 
+  Error.strings
+  fanatick
+
+  Created by Vincent Ngo on 4/12/19.
+  Copyright © 2019 Fanatick. All rights reserved.
+*/
+
+"error_invalid_phone" = "The phone number you entered is invalid. Please try with different number.";
+"error_internal" = "An internal server error occurred. Please try again later.";
+"error_network" = "Network error. Please try again later.";
+"error_unknown" = "An unknown error occurred. Please try again later.";
+"error_session_expired" = "Session expired. Please login again.";
+"error_too_many_request" = "Too many attempts. Please try again later.";
+"error_user_disabled" = "An account associated with this phone number is disabled. Please contact customer support for more detail.";
+"error_invalid_credential" = "Invalid verification code.";
